@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YassineAitHadou
-- 👀 I’m interested in fullstack development 
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning front end developement
 - 💞️ I’m looking to collaborate on the latest technologies 
 - 📫 How to reach me : my linkedin account in the profil
